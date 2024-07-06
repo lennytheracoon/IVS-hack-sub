@@ -1,15 +1,10 @@
-
-
+![showoff-banner-modified](https://github.com/lennytheracoon/IVS-hack-sub/assets/88922616/94a59707-9b5f-431e-b301-1d899c92e90a)
 
 # 🌟 Welcome to Show off! 🤩
 - Are you ready to explore the innovative realm of augmented reality? 💡 Step into a world where digital assets come to life, and your interactions shape the future! 🔮 Welcome to "AR Visionary," where imagination meets reality, revolutionizing how we perceive and interact with the world around us!
-![Logo](https://res.cloudinary.com/dm6aa7jlg/image/upload/v1716806396/Screenshot_2024-05-27_133252_pki6lg.png)
-
 
 ## Description
 - "Show Off" is a cutting-edge Social-AR mobile app that brings crypto assets to life in the real world. Users can visualize and interact with their crypto tokens and NFTs in an immersive AR experience. The app supports multiple blockchain networks and integrated with protocols like Chainlink and Lens. Users can record videos of their AR interactions and share that on hey (Lenster).
-
-
 
 ## Deployed Links
 
