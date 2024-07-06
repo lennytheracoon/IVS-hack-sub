@@ -17,8 +17,8 @@
  - [Polygon zkEVM cardona testnet - Chainlink Price feed contract](https://cardona-zkevm.polygonscan.com/address/0x5D777af119B29aA616B3A37dBA3512DD40a4b8Fa)
  - [zkSync sepolia - Storage contract](https://sepolia.explorer.zksync.io/address/0x5FC9b846a037b4A6DF8fBEFFc03A1Cc4bec57163#transactions)
  - [Polygon zkEVM cardona testnet - Storage contract](https://cardona-zkevm.polygonscan.com/address/0x61943eFBbDcB58F6F5a1171699AdAA4dBd9c748f)
- - [Show-off Backend](https://github.com/phovious-14/show-off-backend)
- - [Show off .APK file](https://drive.google.com/file/d/1K4mcTlAOySgeRZsj-FU83qWfOsFMP7cy/view?usp=sharing)
+ - [Show-off Backend](https://github.com/lennytheracoon/IVS-hack-sub-backend)
+ - [Show off .APK file](https://drive.google.com/file/d/1RngU7KW1P3F5NnybMus5yoe2sOwdhuWd/view?usp=sharing)
 
 
 ## How does it work? 🤔
